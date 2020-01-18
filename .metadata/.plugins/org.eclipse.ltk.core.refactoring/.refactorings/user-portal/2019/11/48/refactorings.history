@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;com.spring.model.EmployeeVO.address&apos; in &apos;com.spring.model.EmployeeVO&apos;&#x0D;&#x0A;- Original project: &apos;user-portal&apos;&#x0D;&#x0A;- Original element: &apos;com.spring.model.EmployeeVO.address&apos;&#x0D;&#x0A;- Getter method name: &apos;getAddress&apos;&#x0D;&#x0A;- Setter method name: &apos;setAddress&apos;&#x0D;&#x0A;- Field visibility: &apos;public&apos;&#x0D;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;address&apos;" flags="589830" getter="getAddress" id="org.eclipse.jdt.ui.self.encapsulate" input="/src\/main\/java&lt;com.spring.model{EmployeeVO.java[EmployeeVO^address" insertion="13" setter="setAddress" stamp="1575111578060" version="1.0" visibility="1"/>
+</session>
